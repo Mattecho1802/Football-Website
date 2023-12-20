@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/506/947/821/soccer-cristiano-ronaldo-lionel-messi-neymar-wallpaper-preview.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.heading{
+    text-decoration: underline;
+}
